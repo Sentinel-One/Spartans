@@ -63,9 +63,9 @@ coverage: ## check code coverage quickly with the default Python
 	$(BROWSER) htmlcov/index.html
 
 docs-create: ## generate Sphinx HTML documentation, including API docs
-	rm -f docs/datateam_dfi_tools.rst
+	rm -f docs/spartans.rst
 	rm -f docs/modules.rst
-	sphinx-apidoc -o docs/ datateam_dfi_tools "**/tmp_*" "**/mock_*" -f -M
+	sphinx-apidoc -o docs/ spartans "**/tmp_*" "**/mock_*" -f -M
 	$(MAKE) -C docs clean
 	$(MAKE) -C docs html
 
