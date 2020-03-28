@@ -4,9 +4,9 @@
 	 x="0px" y="0px" viewBox="0 0 26 32" style="enable-background:new 0 0 26 32;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;fill-opacity:0}
-	.st1{fill:#6B0AEA;}
-	.st2{fill:#9551EE;}
-	.st3{fill:#43246B;}
+	.st1{fill:#6B0AEA;line-color:#6B0AEA}
+	.st2{fill:#9551EE;line-color:#9551EE}
+	.st3{fill:#43246B;line-color:#43246B}
 </style>
 <g>
 	<rect x="25" y="31" class="st0" width="1" height="1"/>
