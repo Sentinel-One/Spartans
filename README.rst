@@ -1,16 +1,17 @@
-========
+========================================
 ``spartans`` - SPARse Tools for ANalysiS
-========
+========================================
+
 .. image:: img/spartans.svg
         :width: 100
         :alt: logo
 
-.. image:: https://img.shields.io/pypi/v/``spartans``.svg
+.. image:: https://img.shields.io/pypi/v/spartans.svg
         :target: https://pypi.python.org/pypi/``spartans``
 
 
-.. image:: https://readthedocs.org/projects/``spartans``/badge/?version=latest
-        :target: https://``spartans``.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/spartans/badge/?version=latest
+        :target: https://spartans.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
 
@@ -20,7 +21,7 @@ sparse matrices. ``spartans`` wishes to help, with many operations to work with
 
 
 * Free software: GNU General Public License v3
-* Documentation: https://````spartans````.readthedocs.io.
+* Documentation: https://spartans.readthedocs.io.
 
 Examples
 --------
