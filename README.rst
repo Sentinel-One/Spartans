@@ -1,13 +1,11 @@
 ========
 Spartans
 ========
-
+.. image:: img/spartans.svg
 
 .. image:: https://img.shields.io/pypi/v/spartans.svg
         :target: https://pypi.python.org/pypi/spartans
 
-.. image:: https://img.shields.io/travis/Sentinel-One/spartans.svg
-        :target: https://travis-ci.com/Sentinel-One/spartans
 
 .. image:: https://readthedocs.org/projects/spartans/badge/?version=latest
         :target: https://spartans.readthedocs.io/en/latest/?badge=latest
