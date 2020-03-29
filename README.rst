@@ -108,6 +108,6 @@ Credits
 * This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
 
 .. _SentinelOne: https://www.sentinelone.com/blog/
-.. _notebook: https://github.com/Sentinel-One/``spartans``/blob/master/examples/Usage.ipynb
+.. _notebook: https://github.com/Sentinel-One/spartans/blob/master/examples/Usage.ipynb
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
