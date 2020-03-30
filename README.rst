@@ -2,7 +2,7 @@
 ``spartans`` - SPARse Tools for ANalysiS
 ========================================
 
-.. image:: img/spartans.svg
+.. image:: img/logo.svg
         :width: 100
         :alt: logo
 
